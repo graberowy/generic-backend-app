@@ -1,0 +1,19 @@
+version: '3'
+services:
+   api:
+     build: .
+     ports:
+       - "8080:8080"
+     depends_on:
+       - mysql
+   mysql:
+     hostname: 'mysql'
+     container_name: 'mysql'
+     image: mysql
+     environment:
+       MYSQL_PASSWORD: password
+       MYSQL_ROOT_PASSWORD: password
+       MYSQL_USER: user
+       MYSQL_DATABASE: bootcampdb
+     ports:
+       - "3306:3306"

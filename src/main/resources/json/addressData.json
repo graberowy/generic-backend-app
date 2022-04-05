@@ -1,0 +1,56 @@
+[{
+      "email": "adam.kowalski@gmail.com",
+      "address": {
+         "code": "00-001",
+         "street": "Adamsa 1"
+      }
+   }, {
+      "email": "barbara.kowalski@gmail.com",
+      "address": {
+         "code": "00-002",
+         "street": "Bora 2"
+      }
+   }, {
+      "email": "cecylia.kowalski@gmail.com",
+      "address": {
+         "code": "00-003",
+         "street": "Czecha 3"
+      }
+   }, {
+      "email": "daniel.kowalski@gmail.com",
+      "address": {
+         "code": "00-004",
+         "street": "Dobra 4"
+      }
+   }, {
+      "email": "eryk.kowalski@gmail.com",
+      "address": {
+         "code": "00-005",
+         "street": "Erki 5"
+      }
+   }, {
+      "email": "test6@mail.com",
+      "address": {
+         "code": "00-006",
+         "street": "Testowa 6"
+      }
+   }, {
+      "email": "test7@mail.com",
+      "address": {
+         "code": "00-007",
+         "street": "Testowa 7"
+      }
+   }, {
+      "email": "test8@mail.com",
+      "address": {
+         "code": "00-008",
+         "street": "Testowa 8"
+      }
+   }, {
+      "email": "test9@mail.com",
+      "address": {
+         "code": "00-009",
+         "street": "Testowa 9"
+      }
+   }
+]
